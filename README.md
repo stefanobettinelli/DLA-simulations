@@ -1,6 +1,6 @@
 ## DLA with mini2Dx: diffusion-limited aggregation simulations
 
-This is a simple implementation of some typical DLA type of aggravation
+This is a simple implementation of some typical DLA type of aggregation
 
 Here are some output examples:
 
